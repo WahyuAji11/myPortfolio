@@ -54,7 +54,7 @@ const AboutSection = () => {
     return (
         <section className="text-white" id="about">
             <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 cl:px-16">
-                <Image src="/images/about.jpeg" width={500} height={500} />
+                <Image src="/images/about.jpeg" alt="about image" width={500} height={500} />
                 <div className="mt-4 md-mt0 text-left flex flex-col">
                     <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
                     <p className="text-base lg:text-lg">I'm a junior full stack web developer passionate about making cool websites. I've worked with HTML, CSS, JavaScript, PHP, Node.js, Express, Next.js, React.js, Laravel, and Git. I love learning new things and I'm eager to team up with others to build awesome apps!</p>
