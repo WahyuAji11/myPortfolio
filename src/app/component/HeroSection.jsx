@@ -8,7 +8,7 @@ import Link from "next/link"
 const HeroSection = () => {
 
     const downloadCv = () => {
-    window.location.href = '/WAHYU_AJI_PANGESTU.pdf'; // Ubah 'your-cv-file.pdf' sesuai nama file CV Anda di folder 'public'
+    window.location.href = '/WAHYU_AJI_PANGESTU.pdf';
     };
 
     return (
