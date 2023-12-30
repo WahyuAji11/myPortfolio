@@ -5,15 +5,15 @@ import ProjectTag from "./ProjectTag";
 import {motion, useInView} from "framer-motion"
 
 const projectsData = [
-// {
-//     id: 1,
-//     title: "React Portfolio Website",
-//     description: "Project 1 description",
-//     image: "/images/projects/1.png",
-//     tag: ["All", "Web"],
-//     gitUrl: "/",
-//     previewUrl: "/",
-// },
+{
+    id: 1,
+    title: "React List Anime",
+    description: "Project 1 description",
+    image: "/images/projects/1.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/WahyuAji11/kanganimekisama",
+    previewUrl: "/",
+},
 {
     id: 2,
     title: "Potography Portfolio Website",
@@ -25,11 +25,11 @@ const projectsData = [
 },
 {
     id: 3,
-    title: "E-commerce Application",
-    description: "Project 3 description",
+    title: "E-commerce Website",
+    description: "Mermaid's Shop",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/WahyuAji11/ecommerce-reactjsAndTs",
     previewUrl: "/",
 },
 {
