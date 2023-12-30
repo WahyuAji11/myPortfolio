@@ -8,11 +8,11 @@ const projectsData = [
 {
     id: 1,
     title: "React List Anime",
-    description: "Project 1 description",
+    description: "KangAnimeKisama",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/WahyuAji11/kanganimekisama",
-    previewUrl: "/",
+    previewUrl: "https://kanganimekisama.vercel.app/",
 },
 {
     id: 2,
