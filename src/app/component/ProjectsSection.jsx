@@ -21,7 +21,7 @@ const projectsData = [
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/WahyuAji11/ecommerce-reactjsAndTs",
-    previewUrl: "ecommerce-reactjs-and-ts.vercel.app",
+    previewUrl: "https://ecommerce-reactjs-and-ts.vercel.app",
 },
 {
     id: 3,
