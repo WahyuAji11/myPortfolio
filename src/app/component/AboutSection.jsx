@@ -14,6 +14,7 @@ const TAB_DATA = [
                 <li>Next.js</li>
                 <li>React.js</li>
                 <li>Laravel</li>
+                <li>Wordpress</li>
             </ul>
         )
     },
